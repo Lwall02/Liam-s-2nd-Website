@@ -1,0 +1,13 @@
+---
+title: "Website_week_2_304"
+---
+
+Hi, my name is Liam, xx
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
