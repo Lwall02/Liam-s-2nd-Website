@@ -2,8 +2,4 @@
 title: "About"
 ---
 
-About this site
-
-```{r}
-1 + 1
-```
+There isn't much extra to say about myself however you are welcome to check out my second website at https://lwall02.github.io/portfolio-website/. 
